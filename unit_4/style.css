@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+body{background-color: #866361;
+}
+h1, p {color: #FDEB70;
+	font-family: 'Cormorant Unicase', serif;
+}
+ul{font-family: 'Abel';
+color: #FDEB70;
+}
+#slogan{
+	font-style:italic;
+	font-family:'Cormorant Unicase', serif;
+}
