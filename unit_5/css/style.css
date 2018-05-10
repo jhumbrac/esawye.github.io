@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+body{background-color: #866361;
+}
+h1, p {
+	color: #FDEB70;
+	font-family: 'Cormorant Unicase', serif;
+}
+header{
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav{
+	background-color:#E8C66A;
+	border:1px black solid;
+	padding:20px;
+}
+aside{
+	background:#FFC675;
+	border:1px black solid;
+	padding:20px;
+}
+article{
+	background: #E89C6C;
+	border:1px black solid;
+	padding:20px;
+}
+ul{
+	font-family: 'Abel';
+	color: #FDEB70;
+}
+footer{
+	background: #FF957E;
+	border: 1px black solid;
+	padding 20px;
+}
